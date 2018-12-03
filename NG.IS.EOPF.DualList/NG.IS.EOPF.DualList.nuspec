@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NG.IS.EOPF.DualList</id>
+    <version>1.0.0.0</version>
+    <title>NG.IS.EOPF.DualList</title>
+    <authors>eopf</authors>
+    <owners>eopf</owners>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DualList box is a custom web control to enable application to add a mover box feature easily than building the html from scratch</description>
+    <copyright>Copyright 2018</copyright>    
+  </metadata>
+  <files>
+    <file src="obj\Release\NG.IS.EOPF.DualList.dll" target="lib\net45" />
+  </files>
+</package>
